@@ -1,0 +1,28 @@
+table, tr,th,td{
+    border: 1px solid black;
+    margin: auto;
+    
+}
+table{
+    position: relative;
+    top:200px;
+    background-color: white;
+}
+th,td{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+th{
+    background-color: white;
+}
+td{
+    background-color: rgb(219, 188, 121);
+}
+div{
+    width: 600px;
+    height: 800px;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+}

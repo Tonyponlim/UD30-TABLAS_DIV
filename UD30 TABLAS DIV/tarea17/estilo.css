@@ -1,0 +1,125 @@
+body{
+    background-image: url('ac.jpg');
+    background-size: cover;
+}
+
+div.contenedor>div{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin:30px;
+    text-align: center;
+    vertical-align: top;
+
+    
+
+}
+div.A{
+    background-image: url("Recursos-20220618/back_mantel.jpg");
+    background-repeat: repeat;
+   
+
+}
+div#B{
+    padding: 30px;
+    box-sizing: border-box;
+   
+}
+
+div.fondo{
+    width: 100%;
+    height: 240px;
+     background-image: url("Recursos-20220618/back_mantel.jpg");
+     font-size: 100px;
+     line-height: 240px;
+}
+
+div.C{
+    background-image: url("Recursos-20220618/back_mantel.jpg");
+    background-size: cover;
+
+}
+div#D{
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: white;
+   
+}
+div.fondo1{
+    width: 100%;
+    height: 240px;
+    background-image: url("Recursos-20220618/back_mantel.jpg");
+    background-size: cover;
+    line-height: 240px;
+
+}
+div.E{
+    background-image: url("Recursos-20220618/dh.jpg");
+    background-size: cover;
+}
+div#F{
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+div.fondo2{
+    width: 100%;
+    height: 240px;
+    background-image: url("Recursos-20220618/dh.jpg");
+    background-size: cover;
+    line-height: 240px;
+
+
+}
+div#G{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+    background-color: white;
+
+
+}
+div.fondo3{
+    width: 100%;
+    height: 240px;
+    background-image: url("Recursos-20220618/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    line-height: normal;
+    background-position:center;
+  
+}
+div#H{
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+div.fondo4{
+    width: 100%;
+    height: 300px;
+    background-image: url("Recursos-20220618/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    line-height: normal;
+    background-position:center;
+  
+}
+div.I{
+    background-image: linear-gradient(to right, rgb(179, 234, 85), rgb(53, 53, 63));
+}
+div.J{background-image: linear-gradient(to top,#d67f28,rgb(141, 74, 23),rgb(216, 166, 116));
+
+}
+div.K{
+    background-image: linear-gradient(to top,rgb(18, 113, 18),white);
+
+}
+div.L{
+    background-image: linear-gradient(to top,rgb(18, 113, 18),transparent);
+
+
+}

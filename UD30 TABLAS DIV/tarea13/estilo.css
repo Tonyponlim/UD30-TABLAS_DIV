@@ -1,0 +1,20 @@
+table, tr, th,td{
+    border: 2px solid black;
+}
+table{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+th{
+    background-color: rgb(116, 206, 145);
+}
+td.celeste{
+    background-color: aqua;
+    text-align: left;
+}
+td.rosa{
+    background-color: palevioletred;
+    padding-top: 30px;
+    text-align:right;
+}

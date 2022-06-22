@@ -1,0 +1,12 @@
+body{
+    margin: 100px 350px;
+}
+table,tr,th,td{
+border: 1px solid black;
+}
+.negrita{
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+}

@@ -1,0 +1,25 @@
+table{
+    padding: 1px;
+    border: 1px solid   rgb(13, 70, 58);
+    margin: auto;
+    box-shadow: inset -3px -3px grey;
+    
+    
+}
+th{
+    border:3px solid rgb(14, 88, 88);
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+
+tbody tr:nth-child(2n){
+    background-color: rgb(96, 183, 96);
+}
+tbody tr:nth-child(2n+1){
+    background-color: rgb(131, 226, 174);
+}
+td{
+    border: 3px solid aqua;
+    margin: 0px;  
+}
